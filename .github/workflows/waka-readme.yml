@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - master  
 
 permissions:
   contents: write
@@ -18,7 +21,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Content settings
           SHOW_TITLE: true
           SECTION_NAME: waka
           TIME_RANGE: all_time
@@ -29,5 +31,4 @@ jobs:
           STOP_AT_OTHER: true
           BLOCKS: ░▒▓█
 
-          # Optional commit settings
           COMMIT_MESSAGE: "Updated WakaTime all-time stats"

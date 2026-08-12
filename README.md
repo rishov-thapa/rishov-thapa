@@ -65,6 +65,14 @@ Passionate about clean architecture, performance, and continuously learning new 
 
 <br/>
 
+### 📊 Wakatime Stats
+### ⏱️ Coding Activity (All Time)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <table>
@@ -98,30 +106,6 @@ Passionate about clean architecture, performance, and continuously learning new 
 </picture>
 
 <br/>
-
-### 📊 Wakatime Stats
-### ⏱️ Coding Activity (All Time)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 April 2023 - To: 11 August 2026
-
-Total Time: 3,432 hrs 35 mins
-
-Java                          1,467 hrs 7 mins      ██████████▓░░░░░░░░░░░░░░   42.57 %
-TypeScript                    1,190 hrs 41 mins     ████████▓░░░░░░░░░░░░░░░░   34.55 %
-HTML                          293 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-SQL                           177 hrs 48 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-XML                           80 hrs 23 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-JSON                          48 hrs 32 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-JavaScript                    44 hrs 7 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-SCSS                          25 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-YAML                          24 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Properties                    17 hrs 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- 🌊 Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
