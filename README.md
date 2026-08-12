@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌊 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rishov Thapa Chhetri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Open%20Source&descAlignY=55&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rishov%20Thapa%20Chhetri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Open%20Source&descAlignY=55&descSize=14" />
 
 <!-- ⌨️ Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -91,7 +91,6 @@ Passionate about clean architecture, performance, and continuously learning new 
 
 ### 🐍 Contribution Snake
 
-<!-- This requires setup (see instructions below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishov-thapa/rishov-thapa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishov-thapa/rishov-thapa/output/github-contribution-grid-snake.svg" />
