@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:          # allows manual run
+  schedule:
+    - cron: "0 0 * * *"       # runs every day at 12:00 AM UTC (5:30 AM IST)
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+          # Content settings
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: all_time          # ← shows all-time stats
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          BLOCKS: ░▒▓█                  # cleaner progress bars (you can change to -> if you prefer)
+          
+          # Optional commit settings
+          COMMIT_MESSAGE: "Updated WakaTime all-time stats"
