@@ -71,16 +71,16 @@ Passionate about clean architecture, performance, and continuously learning new 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 03 September 2026
+From: 13 April 2023 - To: 04 September 2026
 
-Total Time: 3,488 hrs 33 mins
+Total Time: 3,491 hrs 19 mins
 
-Java                          1,501 hrs 46 mins     ██████████▓░░░░░░░░░░░░░░   42.88 %
-TypeScript                    1,199 hrs 4 mins      ████████▓░░░░░░░░░░░░░░░░   34.24 %
-HTML                          298 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-SQL                           177 hrs 48 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Java                          1,502 hrs 8 mins      ██████████▓░░░░░░░░░░░░░░   42.85 %
+TypeScript                    1,200 hrs 35 mins     ████████▓░░░░░░░░░░░░░░░░   34.25 %
+HTML                          298 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+SQL                           177 hrs 48 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 XML                           82 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JSON                          48 hrs 33 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JSON                          48 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 JavaScript                    44 hrs 7 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 SCSS                          25 hrs 57 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 YAML                          25 hrs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
