@@ -71,15 +71,15 @@ Passionate about clean architecture, performance, and continuously learning new 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 06 October 2026
+From: 13 April 2023 - To: 07 October 2026
 
-Total Time: 3,548 hrs 25 mins
+Total Time: 3,550 hrs 21 mins
 
-Java                          1,539 hrs 4 mins      ██████████▓░░░░░░░░░░░░░░   43.20 %
-TypeScript                    1,207 hrs 57 mins     ████████▒░░░░░░░░░░░░░░░░   33.91 %
-HTML                          304 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Java                          1,540 hrs 37 mins     ██████████▓░░░░░░░░░░░░░░   43.22 %
+TypeScript                    1,208 hrs 15 mins     ████████▒░░░░░░░░░░░░░░░░   33.90 %
+HTML                          304 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 SQL                           177 hrs 48 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-XML                           83 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+XML                           83 hrs 7 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 JSON                          48 hrs 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 JavaScript                    44 hrs 7 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 SCSS                          25 hrs 57 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
