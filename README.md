@@ -71,7 +71,7 @@ Passionate about clean architecture, performance, and continuously learning new 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 30 October 2026
+From: 13 April 2023 - To: 31 October 2026
 
 Total Time: 3,592 hrs 3 mins
 
